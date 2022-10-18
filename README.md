@@ -2,4 +2,4 @@
 Solve kattis problems.
 
 
-Each branch is a problem.
+Each folder is a problem.
