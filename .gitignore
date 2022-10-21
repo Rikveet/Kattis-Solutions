@@ -3,3 +3,6 @@
 */venv
 */.git
 */CMakeList.txt
+Kattis-Solutions.code-workspace
+.vscode/c_cpp_properties.json
+.vscode/settings.json
